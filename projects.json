@@ -1,0 +1,14 @@
+[
+    {
+        "name": "project1",
+        "live": "https://streamdreamproject.herokuapp.com/streamDream",
+        "git": "https://github.com/KayeB-Designing/streamDream",
+        "image": "https://thumbs2.imgbox.com/52/95/yl914TjR_t.png"
+    },
+    {
+        "name": "project2",
+        "live": "https://streamdreamproject.herokuapp.com/streamDream",
+        "git": "https://github.com/KayeB-Designing/streamDream",
+        "image": "https://thumbs2.imgbox.com/52/95/yl914TjR_t.png"
+    }
+]

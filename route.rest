@@ -1,0 +1,8 @@
+// root route
+# http://localhost:4000/
+
+// projects index route
+# http://localhost:4000/projects
+
+// about index route
+# http://localhost:4000/about
